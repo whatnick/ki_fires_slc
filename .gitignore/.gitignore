@@ -1,0 +1,7 @@
+S1A_IW_SLC*/*
+
+# Downloaded zips
+*.zip
+
+# Notebooks temp
+.ipynb_checkpoints/
